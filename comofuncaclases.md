@@ -1,4 +1,4 @@
-# EDITIOR.CPP
+# EDITOR.CPP
 
 INTRUCCIONES Y VERSIONES
 
@@ -268,5 +268,5 @@ Como usar las clases, descripcion de cada una
         H[o]->set_estado(cf);
         *niveles_para_llegar[o]=niv;
     }  
-   void mostrar_datos() muestra con detalle los atributos del objeto
+    void mostrar_datos() muestra con detalle los atributos del objeto
   
